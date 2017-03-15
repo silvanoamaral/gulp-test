@@ -1,0 +1,25 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Estudando gulp - Automatizar tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvanoamaral/gulp-test.git"
+  },
+  "author": "Silvano Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvanoamaral/gulp-test/issues"
+  },
+  "homepage": "https://github.com/silvanoamaral/gulp-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11"
+  }
+}
