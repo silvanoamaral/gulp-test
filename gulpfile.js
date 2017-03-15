@@ -30,3 +30,10 @@ gulp.task('watch', function() {
         gulp.run('scripts');
     });
 });
+
+/*
+**
+	Arquivos estão no Github
+	Agora precisa aprender a criar uma branch, fazer as alterações e depois voltar para master principal
+	Fazer um merge
+*/
