@@ -5,3 +5,7 @@ function test01(){
 function test02(){
 	return true;
 }
+
+function test03(){
+	return 'OK';
+}
